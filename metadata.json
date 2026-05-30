@@ -1,0 +1,6 @@
+{
+  "name": "Psych Study Tool",
+  "description": "A sophisticated dark-themed study application for AP Psychology terminology, spaced-repetition flashcards, diagnostic active quizzes, and visual mastery trackers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
